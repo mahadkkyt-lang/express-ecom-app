@@ -1,4 +1,8 @@
-###
+Dont forget to connect to connect to your database in mongoDB compass before you run the project or you will get this error:
+
+ERROR: operation timed out buffering after waiting 1000ms
+
+###_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Run these commands AT THE project's ROOT directry before running the project:  
 
 
